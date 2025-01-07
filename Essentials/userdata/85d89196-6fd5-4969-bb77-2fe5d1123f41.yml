@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.62.45.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735255063787
+  login: 1735255041449
+money: '0'
+last-account-name: lameguy00
+logoutlocation:
+  world: 249ca2d6-2c8d-42af-b7c7-47871c6b7828
+  world-name: world
+  x: -549.1493677225043
+  y: 77.0
+  z: -115.76145031013569
+  yaw: 72.4495849609375
+  pitch: 7.499991416931152

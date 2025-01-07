@@ -1,0 +1,4 @@
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1735130549726,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1735130553801,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1735130553809,"threadID":115,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1735216935164,"threadID":42,"threadName":"Server thread","properties":{}}

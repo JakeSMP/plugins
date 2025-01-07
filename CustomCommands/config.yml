@@ -1,0 +1,12 @@
+# [CustomCommand] Create own commands
+
+prefix: "[&6CustomCommands&r] "
+
+# All custom commands
+# Create your own commands here
+CustomCommands: # Don't touch this!
+  apply: # Command trigger (/example)
+    command: 'tellraw @a {"text":"Click this!","clickEvent":{"action":"open_link","value":"https://forms.gle/whi1SibBo97XGFz68"}}' # The command to be executed
+
+
+Version: 3 # Don't touch this!

@@ -1,0 +1,22 @@
+useTimes:
+  farming:
+    C: {}
+    L: {}
+    M: {}
+    N: {}
+    F: {}
+    D: {}
+    H: {}
+    P: {}
+    G: {}
+    A: {}
+    I: {}
+    B: {}
+    K: {}
+    E: {}
+    O: {}
+    Q: {}
+    J: {}
+  redstone:
+    I:
+      buyUseTimes: 14

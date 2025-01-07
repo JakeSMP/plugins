@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 69.58.92.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734988123939
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734986909450
+  login: 1734987564348
+  kits:
+    starter: 1734981400851
+    console: 1734983816734
+money: '0'
+last-account-name: TimeWorkStudio
+logoutlocation:
+  world: 42048834-f0cb-47bb-9605-2911ec40f995
+  world-name: spawn
+  x: -2.7283303577445945
+  y: -45.68898417407754
+  z: -9.029937398041234
+  yaw: -100.50012969970703
+  pitch: 40.05003356933594
+lastlocation:
+  world: 42048834-f0cb-47bb-9605-2911ec40f995
+  world-name: spawn
+  x: -97.69999998807907
+  y: 172.0323644348802
+  z: -102.7874099501221
+  yaw: -162.59912109375
+  pitch: 18.15001106262207

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 204.147.191.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735079425104
+  login: 1735078661204
+money: '0'
+last-account-name: Footlord1235
+logoutlocation:
+  world: 249ca2d6-2c8d-42af-b7c7-47871c6b7828
+  world-name: world
+  x: -779.4586165551246
+  y: 152.0
+  z: -90.35497912269669
+  yaw: -92.10061645507812
+  pitch: 14.550010681152344

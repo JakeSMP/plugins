@@ -1,0 +1,5 @@
+database:
+  type: SQLite
+  url: "jdbc:sqlite:database.db"
+  user: "root"
+  password: ""

@@ -1,0 +1,22 @@
+# RTP Plugin Configuration
+rtp:
+  min-radius: 1000
+  max-radius: 5000
+  cost: 0.0 # Set to 0.0 for free, or a positive value for cost
+  max-attempts: 5000
+  search-timeout: 15000 # 15 seconds timeout
+  features:
+    biome-teleport: true
+    rtp-back: true
+    rtp-party: true
+  messages:
+    teleported: You have been teleported to a random location!
+    only-players: This command can only be executed by players!
+    not-enough-money: 'You don''t have enough money for the RTP command. Required:
+      %cost%'
+    money-deducted: '%cost% has been deducted from your account.'
+    no-safe-location: Could not find a safe location. Teleporting to spawn.
+    no-previous-location: You don't have a previous RTP location to return to.
+    party-teleported: Your party has been teleported to a random location!
+    feature-disabled: This feature is currently disabled.
+use-default-permissions: true

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.199.104.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734988297955
+  login: 1734987830421
+money: '0'
+last-account-name: monke_vr96og
+lastlocation:
+  world: 249ca2d6-2c8d-42af-b7c7-47871c6b7828
+  world-name: world
+  x: -564.0006250421409
+  y: 80.7531999805212
+  z: -92.20429939493144
+  yaw: 50.55014419555664
+  pitch: 46.50000762939453
+logoutlocation:
+  world: 42048834-f0cb-47bb-9605-2911ec40f995
+  world-name: spawn
+  x: -50.124258720107576
+  y: -60.0
+  z: -53.46265170905932
+  yaw: -76.5
+  pitch: -3.8999991416931152

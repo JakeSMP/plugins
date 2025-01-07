@@ -1,0 +1,22 @@
+kits:
+  starter:
+    delay: 86400
+    items:
+    - stone_sword 1 name:&6Starter_Sword lore:&6-_Starter knockback:1 damage_all:2
+    - stone_pickaxe 1 name:&6Starter_Pickaxe lore:&6-_Starter dig_speed:2
+    - stone_axe 1 name:&6Starter_Axe lore:&6-_Starter dig_speed:2
+    - stone_shovel 1 name:&6Starter_Shovel lore:&6-_Starter dig_speed:1
+    - iron_boots 1 name:&6Starter_Boots lore:&6-_Starter protection_fall:3
+    - iron_leggings 1 name:&6Starter_Leggings lore:&6-_Starter protection_explosions:1
+      protection_projectile:1
+    - iron_chestplate 1 name:&6Starter_Chestplate lore:&6-_Starter protection_fire:1
+      protection_environmental:1 thorns:1
+    - iron_helmet 1 name:&6Starter_Helmet lore:&6-_Starter protection_environmental:2
+    - cooked_beef 32
+    - oak_log 16
+    - oak_sapling 10
+    - barrel 2
+    - ender_chest 1
+    - crafting_table 1
+    - totem_of_undying 1
+    - golden_apple 2

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 129.222.45.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736108495645
+  login: 1736108460038
+money: '0'
+last-account-name: Fir3ninja282
+logoutlocation:
+  world: 8a6b1ce4-d6b5-45f9-8df2-9e48792eabe5
+  world-name: services
+  x: -35.04651276078688
+  y: -39.15041058560224
+  z: -5.387010804796095
+  yaw: -54.59197998046875
+  pitch: 30.750057220458984
+lastlocation:
+  world: 249ca2d6-2c8d-42af-b7c7-47871c6b7828
+  world-name: world
+  x: -547.9066101923457
+  y: 89.8784306648163
+  z: -57.76551151532953
+  yaw: 61.34600830078125
+  pitch: -5.1000213623046875

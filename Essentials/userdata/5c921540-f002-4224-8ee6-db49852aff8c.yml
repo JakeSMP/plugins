@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.110.99.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736282349312
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736285396674
+  login: 1736284742414
+  kits:
+    starter: 1736014024456
+money: '2147483157.66'
+last-account-name: TheRealStetupYT
+logoutlocation:
+  world: 249ca2d6-2c8d-42af-b7c7-47871c6b7828
+  world-name: world
+  x: -535.9737114639099
+  y: 63.0
+  z: -281.74818680471174
+  yaw: -58.763427734375
+  pitch: 28.60611343383789
+lastlocation:
+  world: 249ca2d6-2c8d-42af-b7c7-47871c6b7828
+  world-name: world
+  x: -624.8076925309892
+  y: 85.99397249063438
+  z: -241.81179841125604
+  yaw: -117.7082290649414
+  pitch: 13.626449584960938
+nickname: Stetup
