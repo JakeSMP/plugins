@@ -30,7 +30,7 @@
 # For more information on getting everything setup: https://github.com/amsam0/voicechat-discord#readme
 
 bots:
-- token: MTMyMTIwMDgyNzQ5ODUwMDE2OQ.GQV2Z-.qe05XuDRaTGv7NKamF92TIajzgKV5Cu8MhjERo
-  vc_id: 1320145755071189063
+- token: YouThoughtYouCouldGetTheTokenOfOurVoiceChatBot
+  vc_id: NoWayJose
 alert_ops_of_updates: true
 debug_level: 0
